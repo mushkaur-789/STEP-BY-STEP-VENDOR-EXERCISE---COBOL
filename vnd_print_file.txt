@@ -1,0 +1,27 @@
+          VENDOR LIST                    PAGE:     1
+
+NO    NAME-ADDRESS                   CONTACT-PHONE-ZIP
+00002 2                              2
+      2                              2
+      2
+      2                    2         2
+
+00004 MARIO ROSSI                    CATERINA LIOU
+      VIA MILANO, 44                 +39 9182736634
+      VIA LOROTI, CA44
+      MILANO               IT        4444
+
+00005 LUANA PIXXO                    MARTA
+      VIA ORATI 44                   +39 882233344
+      GENOVA               IT        ZS33
+
+00009 9                              9
+      9                              9
+      9
+      9                    9         9
+
+07777 77777                          777
+      77777                          7777
+      7777
+      7777                 77        777
+
