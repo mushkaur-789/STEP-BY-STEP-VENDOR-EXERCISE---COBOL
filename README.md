@@ -1,7 +1,7 @@
-# 🚚 VENDOR EXERCISE --- COBOL
+# 🚚 VENDOR EXERCISE --- COBOL 
 
 ## Overview
-
+(I followed a step by step exercise for the base flow, but I implemented parts independently and adapted the logic.)
 VNDINDX02 is a COBOL program that manages a file using indexed file operations.
 It allows the user to add, modify, view, and delete records containing: 
     - VENDOR NUMBER --> Primary Key
